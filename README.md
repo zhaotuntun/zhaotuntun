@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🌅 你好，我是 朝暾  
 
-<!--
-**zhaotuntun/zhaotuntun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 一名正在不断学习与成长的计算机专业学生。  
+🌱 目前正在探索 **Python、Linux、人工智能基础**。  
+💡 我相信，每一行代码都是前进的一小步。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 关于我
+- 🏫 计算机科学与技术专业在读  
+- 📘 正在学习：**Python、数据结构、机器学习**  
+- 🧩 每月都会尝试做一个小项目  
+- ✍️ 喜欢记录学习笔记与成长过程  
+
+---
+
+### 📚 当前学习计划
+- [x] Python 基础  
+- [x] Git / GitHub 基础操作  
+- [ ] Linux 命令行与环境  
+- [ ] 数据结构与算法  
+- [ ] 机器学习入门  
+
+---
+
+> 🪄 *“学习永不止步，持续编程，持续成长。”*
