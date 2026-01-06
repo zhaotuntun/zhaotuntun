@@ -20,7 +20,9 @@
 - [ ] **Open Source:** First PR to an OSPP project
 
 ---
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaotuntun&show_icons=true&theme=radical&hide_border=true" alt="zhaotuntun's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaotuntun&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+
+<!-- GitHub 统计卡片 (已修正用户名) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaotuntun&show_icons=true&theme=dracula&hide_border=true" alt="zhaotuntun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaotuntun&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+</div>
