@@ -1,27 +1,26 @@
-# 🌅 你好，我是 朝暾  
+### Hi there, I'm Zhaotuntun! 🌅
 
-🎓 一名正在不断学习与成长的计算机专业学生。  
-🌱 目前正在探索 **Python、Linux、人工智能基础**。  
-💡 我相信，每一行代码都是前进的一小步。
+我是 **zhaotuntun**，一名来自中国的计算机科学与技术专业大二学生。目前正处于从“语法学习”向“工程实践”跨越的探索期。我对 **全栈开发** 和 **机器学习** 充满好奇，正在寻找适合自己的技术栈。
 
----
+🌱 **Current Status & Goals**
+- 🎓 **Undergraduate:** Computer Science & Technology (Sophomore).
+- 🔭 **Exploring:** Vue.js & Open Source Contribution.
+- 🎯 **Current Focus:** 夯实计算机基础 (CS61 Series, NJU Labs) & 准备参加 [OSPP](https://summer-ospp.ac.cn/) (开源软件供应链点亮计划).
+- 🧩 **Learning:** Digital Logic, Assembly Language.
 
-### 🧭 关于我
-- 🏫 计算机科学与技术专业在读  
-- 📘 正在学习：**Python、数据结构、机器学习**  
-- 🧩 开始尝试做小项目  
-- ✍️ 喜欢记录学习笔记与成长过程  
+🛠️ **Tech Stack (Loading...)**
+- **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) (Reviewing & Practicing)
+- **Interest:** ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
----
-
-### 📚 当前学习计划
-- [x] Python 基础  
-- [x] Git / GitHub 基础操作  
-- [ ] Linux 命令行与环境  
-- [ ] 数据结构与算法  
-- [ ] 机器学习入门
-- [ ] cs61a / cs61b
+📚 **My Study Plan (2026)**
+- [ ] **CS61A:** Structure and Interpretation of Computer Programs
+- [ ] **CS61B:** Data Structures
+- [ ] **CS61C:** Machine Structures
+- [ ] **NJU ICS:** Introduction to Computer Systems (PA Labs)
+- [ ] **Open Source:** First PR to an OSPP project
 
 ---
-
-> 🪄 *“学习永不止步，持续编程，持续成长。”*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaotuntun&show_icons=true&theme=radical&hide_border=true" alt="zhaotuntun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaotuntun&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
