@@ -1,6 +1,6 @@
 ### Hi there, I'm Zhaotuntun! 🌅
 
-我是 **zhaotuntun**，一名来自中国的计算机科学与技术专业大二学生。目前正处于从“语法学习”向“工程实践”跨越的探索期。我对 **全栈开发** 和 **机器学习** 充满好奇，正在寻找适合自己的技术栈。
+我是 **zhaotuntun**，一名来自中国的计算机科学与技术专业大二学生。目前正处于从“语法学习”向“工程实践”跨越的探索期。正在寻找适合自己的技术栈。
 
 🌱 **Current Status & Goals**
 - 🎓 **Undergraduate:** Computer Science & Technology (Sophomore).
