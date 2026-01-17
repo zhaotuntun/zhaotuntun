@@ -21,8 +21,9 @@
 
 ---
 
-<!-- GitHub 统计卡片 (已修正用户名) -->
+<!-- 暂时隐藏统计卡片，等有公开数据了再放开
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhaotuntun&show_icons=true&theme=dracula&hide_border=true" alt="zhaotuntun's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaotuntun&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </div>
+-->
