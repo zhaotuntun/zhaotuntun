@@ -21,9 +21,7 @@
 
 ---
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaotuntun&show_icons=true&theme=dracula&hide_border=true" alt="zhaotuntun's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaotuntun&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-plum-phi-51.vercel.app/api?username=zhaotuntun&show_icons=true&theme=dracula&hide_border=true" alt="zhaotuntun's GitHub stats" />
+  <img src="https://github-readme-stats-plum-phi-51.vercel.app/api/top-langs/?username=zhaotuntun&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </div>
-
